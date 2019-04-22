@@ -16,7 +16,9 @@
    },
    "official" : false,
    "pkgs" : [
-      "pkg"
+      "pkg",
+      "ca_root_nss",
+      "openmdns"
    ],
    "packagesite" : "http://pkg.FreeBSD.org/${ABI}/quarterly",
    "artifact" : "https://github.com/jed-frey-freenas-plugins/iocage-plugin-dhcp.git",
