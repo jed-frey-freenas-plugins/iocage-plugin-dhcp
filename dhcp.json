@@ -1,5 +1,5 @@
 {
-    "artifact": "https://github.com/jed-frey-freenas-plugins/iocage-plugin-dhcp.git",
+    "artifact": "https://github.com/dapperfu-iocage-plugins/iocage-plugin-dhcp.git",
     "fingerprints": {
         "plugin-default": [
             {
